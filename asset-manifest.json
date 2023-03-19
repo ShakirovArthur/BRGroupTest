@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.9981e69b.js",
-    "index.html": "/index.html",
-    "main.9981e69b.js.map": "/static/js/main.9981e69b.js.map"
+    "main.js": "/BRGroupTest/static/js/main.9981e69b.js",
+    "index.html": "/BRGroupTest/index.html",
+    "main.9981e69b.js.map": "/BRGroupTest/static/js/main.9981e69b.js.map"
   },
   "entrypoints": [
     "static/js/main.9981e69b.js"
