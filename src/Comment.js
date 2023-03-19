@@ -12,7 +12,7 @@ const Comment = ({commentId, lastUpdateComment, depth = 0}) => {
         setIsDisplayComment(!isDisplayComment);
     }, [isDisplayComment]);
 
-    useEffect(() => { //вынести в hackerAPI
+    useEffect(() => {
 
         fetch(`https://hacker-news.firebaseio.com/v0/item/${commentId}.json?print=pretty`)
             .then((res) => res.json())
