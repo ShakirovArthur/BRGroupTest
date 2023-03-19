@@ -8,7 +8,7 @@ export const App = () => {
         <Router>
             <div className="App">
                 <Switch>
-                    <Route exact path="/">
+                    <Route exact path="/BRGroupTest">
                         <Posts/>
                     </Route>
                     <Route path="/:item">

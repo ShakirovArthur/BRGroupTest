@@ -50,7 +50,7 @@ export const Post = () => {
                     />
                 ))}
             </List>
-            <Button><Link to="/">Назад</Link></Button>
+            <Button><Link to="/BRGroupTest">Назад</Link></Button>
         </div>
     );
 };
